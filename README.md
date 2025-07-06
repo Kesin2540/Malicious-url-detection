@@ -19,9 +19,8 @@ It extracts URL features automatically and uses a trained Random Forest Classifi
 
 ## 🖼 Screenshot
 
-```
 ![App Screenshot](assets/app_screenshot.png)
-```
+
 
 ---
 
