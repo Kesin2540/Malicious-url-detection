@@ -142,7 +142,7 @@ st.markdown("### 🔗 Enter a URL below")
 url_input = st.text_input("Paste the URL here:")
 
 # === View Options ===
-advanced_view = st.checkbox("Show Advanced View (Feature values + confidence)")
+advanced_view = st.checkbox("Show Advanced View")
 
 # === Prediction Section ===
 if st.button("Check URL"):
