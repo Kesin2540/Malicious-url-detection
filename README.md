@@ -20,7 +20,7 @@ It extracts URL features automatically and uses a trained Random Forest Classifi
 ## 🖼 Screenshot
 
 ```
-![image alt](https://github.com/Kesin2540/Malicious-url-detection/blob/main/assets/app_screenshot.png?raw=true)
+![App Screenshot](assets/app_screenshot.png)
 ```
 
 ---
