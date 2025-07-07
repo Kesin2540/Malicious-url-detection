@@ -198,7 +198,7 @@ def add_www_if_missing(url_string):
     parsed_url = urlparse(temp_url_string)
     
     scheme = parsed_url.scheme
-    netloc = parsed_url.netloc # This is hostname + port
+    netloc = parsed_url.netloc 
     path = parsed_url.path
     params = parsed_url.params
     query = parsed_url.query
