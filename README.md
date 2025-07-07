@@ -2,10 +2,8 @@
 
 This project is a machine learning-powered web application built with **Streamlit** that detects whether a URL is:
 
-- ✅ Benign  
-- ❗ Malware  
-- ⚠️ Phishing  
-- 🚫 Defacement
+- ✅ Legitimate  
+- ❗ Phishing  
 
 It extracts URL features automatically and uses a trained Random Forest Classifier to predict the type with a confidence percentage.
 
