@@ -59,8 +59,8 @@ malicious-url-detector/
 ## 🧪 Run Locally
 
 ```bash
-git clone https://github.com/your-username/malicious-url-detector.git
-cd malicious-url-detector
+git clone https://github.com/Kesin2540/Malicious-url-detection.git
+cd Malicious-url-detection
 pip install -r requirements.txt
 streamlit run app.py
 ```
